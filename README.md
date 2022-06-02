@@ -8,7 +8,9 @@
 
 `Over_Sampling.ipynb`
 + dataset 정보 및 오버샘플링  
+
 `Logistic Regression.ipynb`
 + Logistic Regression 학습 및 예측 결과  
+
 `FNN.ipynb`
 + FNN 학습 및 예측 결과  
