@@ -6,7 +6,7 @@
 ### Logistic regression과 FNN 성능 비교
 + dataset은 보안 상 업로드 못하는 점 이해를 바랍니다.
 
-`Over_Sampling.ipynb`
+`Over Sampling.ipynb`
 + dataset 정보 및 오버샘플링  
 
 `Logistic Regression.ipynb`
