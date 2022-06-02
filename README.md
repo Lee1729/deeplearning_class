@@ -3,7 +3,7 @@
 ## AI를 이용한 신생기업의 부도예측
 이정언, 제갈홍, 최지현
 
-### Logistc regression과 FNN 성능 비교
+### Logistic regression과 FNN 성능 비교
 + dataset은 보안 상 업로드 못하는 점 이해를 바랍니다.
 
 `Over_Sampling.ipynb`
